@@ -1,0 +1,29 @@
+{
+  "name": "z-func",
+  "version": "1.0.0",
+  "description": "library for manipulating data in form arrays and collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-2020/array-processing.git"
+  },
+  "keywords": [
+    "arrays",
+    "js",
+    "collections",
+    "min",
+    "max",
+    "avg",
+    "map",
+    "filter"
+  ],
+  "author": "Andrew Naem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew-2020/array-processing/issues"
+  },
+  "homepage": "https://github.com/andrew-2020/array-processing#readme"
+}
